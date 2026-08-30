@@ -1,0 +1,35 @@
+1,The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,1
+2,To Kill a Mockingbird,Harper Lee,1960,Fiction,1
+3,1984,George Orwell,1949,Dystopian,1
+4,Pride and Prejudice,Jane Austen,1813,Romance,1
+5,The Catcher in the Rye,J.D. Salinger,1951,Fiction,0
+6,Moby Dick,Herman Melville,1851,Adventure,1
+7,War and Peace,Leo Tolstoy,1869,Historical,1
+8,The Hobbit,J.R.R. Tolkien,1937,Fantasy,1
+9,The Lord of the Rings,J.R.R. Tolkien,1954,Fantasy,1
+10,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,Fantasy,0
+11,Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,Fantasy,1
+12,The Da Vinci Code,Dan Brown,2003,Thriller,1
+13,Angels and Demons,Dan Brown,2000,Thriller,1
+14,The Alchemist,Paulo Coelho,1988,Fiction,1
+15,The Little Prince,Antoine de Saint-Exupéry,1943,Fable,1
+16,Brave New World,Aldous Huxley,1932,Dystopian,1
+17,The Hunger Games,Suzanne Collins,2008,Dystopian,1
+18,Catching Fire,Suzanne Collins,2009,Dystopian,0
+19,Mockingjay,Suzanne Collins,2010,Dystopian,1
+20,The Book Thief,Markus Zusak,2005,Historical,1
+21,The Chronicles of Narnia,C.S. Lewis,1956,Fantasy,1
+22,Animal Farm,George Orwell,1945,Satire,1
+23,The Shining,Stephen King,1977,Horror,1
+24,It,Stephen King,1986,Horror,0
+25,Dracula,Bram Stoker,1897,Horror,1
+26,Frankenstein,Mary Shelley,1818,Horror,1
+27,The Kite Runner,Khaled Hosseini,2003,Drama,1
+28,A Thousand Splendid Suns,Khaled Hosseini,2007,Drama,1
+29,The Girl with the Dragon Tattoo,Stieg Larsson,2005,Crime,1
+30,Gone Girl,Gillian Flynn,2012,Thriller,0
+31,The Fault in Our Stars,John Green,2012,Romance,1
+32,Twilight,Stephenie Meyer,2005,Romance,1
+33,New Moon,Stephenie Meyer,2006,Romance,0
+34,Eclipse,Stephenie Meyer,2007,Romance,1
+35,Breaking Dawn,Stephenie Meyer,2008,Romance,1
